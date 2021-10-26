@@ -179,12 +179,18 @@ inside our HOST app create a directory called "templates"
 
 ```
 
+
 mkdir templates
 cd templates
 mkdir host
 cd host
 
 ```
+
+## Uncompress the HTML
+The html is compressed and it will be hard to find the form fields we need to modify. Head to this link: https://www.onlinewebtoolkit.com/html-uncompress#HTMLCompress. 
+
+Upload the html file we just mirrored using WGET. 
 
 Our template directory is set up like this: templates/host/netflix.html
 
